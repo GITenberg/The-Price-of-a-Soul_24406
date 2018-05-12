@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3381
     wikipedia: http://en.wikipedia.org/wiki/William_Jennings_Bryan
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24406#The-Price-of-a-Soul
 gutenberg_issued: '2008-01-23'
 gutenberg_type: Text
 identifiers:
